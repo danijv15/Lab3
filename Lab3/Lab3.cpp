@@ -44,7 +44,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout << "Arbol de Personas:" << endl;
 	cout << p << endl;
 
-	cout << "Fin del programa!" << endl;
+	cout << "Fin del programa" << endl;
 
 	return 0;
 }
